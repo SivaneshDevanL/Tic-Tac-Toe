@@ -1,0 +1,31 @@
+#main{
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
+#s{
+width: 100px;
+height: 100px;
+background-color:darkcyan;
+border: 1px solid darkgray;
+font-size:50px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#turn{
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  font-size: larger;
+  font-weight:bolder
+}
+#reset{
+   margin-left: 45%;
+   margin-top: 20px;
+   width: 80px;
+   height: 40px;
+   background-color:palegreen;
+   border-color:rosybrown;
+   font-size: larger;
+}
